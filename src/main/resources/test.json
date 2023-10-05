@@ -1,0 +1,21 @@
+{
+	"id":55688,
+	"name":"ted",
+	"score":95.5,
+	"graduated":true,
+	"age":null,
+	"courseList":["math","english"],
+	"pet":{
+		"name":"旺財",
+		"age":5
+	},
+	"petList":[
+		{
+			"name":"旺財",
+			"age":5
+		},{
+			"name":"老皮",
+			"age":3
+		}
+	]
+}
